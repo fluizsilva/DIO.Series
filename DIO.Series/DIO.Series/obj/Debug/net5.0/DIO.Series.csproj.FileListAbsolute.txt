@@ -1,0 +1,16 @@
+C:\lixo\c#\Series\DIO.Series\DIO.Series\bin\Debug\net5.0\DIO.Series.exe
+C:\lixo\c#\Series\DIO.Series\DIO.Series\bin\Debug\net5.0\DIO.Series.deps.json
+C:\lixo\c#\Series\DIO.Series\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+C:\lixo\c#\Series\DIO.Series\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+C:\lixo\c#\Series\DIO.Series\DIO.Series\bin\Debug\net5.0\DIO.Series.dll
+C:\lixo\c#\Series\DIO.Series\DIO.Series\bin\Debug\net5.0\ref\DIO.Series.dll
+C:\lixo\c#\Series\DIO.Series\DIO.Series\bin\Debug\net5.0\DIO.Series.pdb
+C:\lixo\c#\Series\DIO.Series\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.AssemblyReference.cache
+C:\lixo\c#\Series\DIO.Series\DIO.Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\lixo\c#\Series\DIO.Series\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+C:\lixo\c#\Series\DIO.Series\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+C:\lixo\c#\Series\DIO.Series\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+C:\lixo\c#\Series\DIO.Series\DIO.Series\obj\Debug\net5.0\DIO.Series.dll
+C:\lixo\c#\Series\DIO.Series\DIO.Series\obj\Debug\net5.0\ref\DIO.Series.dll
+C:\lixo\c#\Series\DIO.Series\DIO.Series\obj\Debug\net5.0\DIO.Series.pdb
+C:\lixo\c#\Series\DIO.Series\DIO.Series\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
